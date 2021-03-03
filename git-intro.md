@@ -26,10 +26,10 @@ Git includes inherent Graphical User Interface (GUI) tools. However, users can a
 ## Workflow
  ![work folw](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
- ##Saving Changes
+ ## Saving Changes
 All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
 
-##The Life Cycle of File Status
+## The Life Cycle of File Status
 
 ![The Life Cycle of File Status
 ](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
