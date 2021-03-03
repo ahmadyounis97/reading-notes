@@ -13,3 +13,39 @@ Git mostly relies on local operations because most necessary information can be 
 3. Tracking Changes
 
 Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
+
+4. Staged
+Flagged a file’s changed version to be committed in the next snapshot
+
+ ![Flagged a file’s changed version to be committed in the next snapshot
+
+](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+
+## Graphical Clients
+Git includes inherent Graphical User Interface (GUI) tools. However, users can also utilize third-party tools created for particular platforms.
+
+## Workflow
+ ![work folw](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+
+ ##Saving Changes
+All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
+
+##The Life Cycle of File Status
+
+![The Life Cycle of File Status
+](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
+## Tracking and Staging a New File
+
+Track one file only by using the following format:
+
+git add filename
+
+## Committing a File
+After staging one or multiple files, you should commit the changes and record what you did within the commit message:
+
+## Pushing Changes
+Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
+
+
+
