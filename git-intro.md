@@ -18,7 +18,6 @@ Every single change applied to any file or directory is tracked by Git. And, as 
 Flagged a file’s changed version to be committed in the next snapshot
 
  ![Flagged a file’s changed version to be committed in the next snapshot
-
 ](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 ## Graphical Clients
