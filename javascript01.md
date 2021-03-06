@@ -69,3 +69,12 @@ You may remember some from math class.
 |---|---|---|---|---|
 | ADDITION  | +  |  Adds one value to another |  10 + 5 |  15 |
 | MODULUS   | %  | Divides two values and returns the remainder  | 10 % 3  |  1  |
+
+## WHAT IS A FUNCTION? 
+Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of statements). 
+
+## A BASIC FUNCTION 
+* example for this 
+![image]()
