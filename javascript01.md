@@ -76,5 +76,6 @@ specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of statements). 
 
 ## A BASIC FUNCTION 
-* example for this 
-![image]()
+example for this 
+![exam01](https://user-images.githubusercontent.com/79832772/110216613-baeb5800-7eb8-11eb-99f1-9debdc220e6d.png)
+
